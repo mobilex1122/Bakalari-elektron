@@ -1,0 +1,22 @@
+{
+  "name": "mytestapp",
+  "version": "1.0.0",
+  "description": "My first try to make electron app.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobilex1122/my-first-electron-test.git"
+  },
+  "author": "mobilex1122",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobilex1122/my-first-electron-test/issues"
+  },
+  "homepage": "https://github.com/mobilex1122/my-first-electron-test#readme",
+  "devDependencies": {
+    "electron": "^23.1.0"
+  }
+}
